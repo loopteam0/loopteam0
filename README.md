@@ -1,4 +1,4 @@
-# 👋 Hi, I’m loopteam0
+# 👋 Hi, I’m Paul Boamah 
 
 Welcome to my GitHub!  
 I'm a **Fullstack Developer** passionate about building robust, modern, and scalable software—from mobile apps to cloud-based platforms.  
