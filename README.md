@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Paul Boamah 
+# 👋 Hi, I’m loopteam0
 
 Welcome to my GitHub!  
 I'm a **Fullstack Developer** passionate about building robust, modern, and scalable software—from mobile apps to cloud-based platforms.  
@@ -18,8 +18,9 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=fff)
 
-- **Languages:** Dart, TypeScript, Kotlin, Shell, PHP (Blade), Java
+- **Languages:** Dart, TypeScript, Kotlin, Go, Shell, PHP (Blade), Java
 - **Frameworks:** Angular, NestJS, Spring Boot, Flutter, Laravel, Modern JS/TS frameworks
 - **Domains:** Mobile & Web Apps, API Design, Cloud Deployment, DevOps Scripting, Streaming/Media, Project & Employee Management Tools
 - **Architectures:** Hexagonal, Domain Driven Design (DDD), Clean Architecture
@@ -30,12 +31,12 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 
 | Project | Tech | Description | Link |
 |---------|------|-------------|------|
-| **Open Observability** | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=fff) | Scripting and infrastructure observability tools | [Repo](https://github.com/loopteam0/open-observability) |
-| **The Presence Hub** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Flutter-based presence management app | Private |
-| **Hacklab Connect** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Full-stack web app for community collaboration | [Live](https://hacklab-connect.vercel.app) |
-| **233 Eats backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff) | API backend for food delivery | Private |
-| **GEC podcast** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Mobile app for podcast streaming | Private |
-| **Zcenter Vision** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Modern web platform, deployed on Vercel | [Live](https://zcenter-vision.vercel.app) |
+| **open-observability** | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=fff) | Scripting and infrastructure observability tools | [Repo](https://github.com/loopteam0/open-observability) |
+| **the-presence-hub** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Flutter-based presence management app | Private |
+| **hacklab-connect** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Full-stack web app for community collaboration | [Live](https://hacklab-connect.vercel.app) |
+| **233_eats_backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff) | API backend for food delivery | Private |
+| **gec_podcast** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Mobile app for podcast streaming | Private |
+| **zcenter-vision** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Modern web platform, deployed on Vercel | [Live](https://zcenter-vision.vercel.app) |
 
 > **Note:** I have 90+ repositories!  
 > Explore more at: [github.com/loopteam0?tab=repositories](https://github.com/loopteam0?tab=repositories)
@@ -48,13 +49,16 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 - Experimenting with observability and cloud tooling
 - Exploring modern frameworks and deployment strategies
 - Designing software with Hexagonal, DDD, and Clean Architecture principles
+- Developing a complete authentication/authorization service in Go (Golang)
+- Creating an Angular observability library
+- Architecting an AI-powered core banking platform
 
 ---
 
 ## 📫 Let’s Connect!
 
 - GitHub: [loopteam0](https://github.com/loopteam0)
-- [LinkedIn](#) (add your link if you have one!)
+- LinkedIn: [paul-boamah](http://www.linkedin.com/in/paul-boamah)
 - Open to collaborations, ideas, and new opportunities!
 
 ---
