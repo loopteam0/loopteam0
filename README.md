@@ -36,6 +36,7 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 | **hacklab-connect** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Full-stack web app for community collaboration | [Live](https://hacklab-connect.vercel.app) |
 | **233_eats_backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff) | API backend for food delivery | Private |
 | **gec_podcast** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Mobile app for podcast streaming | Private |
+| **Habitique** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Habit management app with full offline support | Private |
 | **zcenter-vision** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Modern web platform, deployed on Vercel | [Live](https://zcenter-vision.vercel.app) |
 
 > **Note:** I have 90+ repositories!  
