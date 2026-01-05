@@ -38,7 +38,7 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 | **gec_podcast** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Mobile app for podcast streaming | Private |
 | **Habitique** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff) | Habit management app with full offline support | Private |
 | **zcenter-vision** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Modern web platform, deployed on Vercel | [Live](https://zcenter-vision.vercel.app) |
-| **Secret Santa** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Secret santa matching that you can deploy and use easily, deployed on Vercel | [Live](https://secret-santa-eight-psi.vercel.app/) |
+| **Secret Santa** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) | Secret santa matching app that you can easily deploy and use for your team, deployed on Vercel | [Live](https://secret-santa-eight-psi.vercel.app/) |
 
 > **Note:** I have 90+ repositories!  
 > Explore more at: [github.com/loopteam0?tab=repositories](https://github.com/loopteam0?tab=repositories)
