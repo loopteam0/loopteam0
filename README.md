@@ -12,9 +12,10 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
@@ -23,8 +24,8 @@ I love software architecture (especially Hexagonal, Domain Driven, and Clean Arc
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)
 
-- **Languages:** TypeScript, Dart, Go, Python, Kotlin, Java, PHP (Blade), Shell
-- **Frameworks:** Angular, NestJS, React, Flutter, Spring Boot, Laravel, Nx monorepos
+- **Languages:** TypeScript, Java, Dart, Go, Python, Kotlin, PHP (Blade), Shell
+- **Frameworks:** Angular, NestJS, Spring Boot, React, Flutter, Laravel, Nx monorepos
 - **Domains:** Mobile & Web Apps, API Design, Fintech & Core Banking, E-commerce, LMS & Church Platforms, Cloud Deployment, DevOps Scripting, Observability, Streaming/Media
 - **Architectures:** Hexagonal, Domain Driven Design (DDD), Clean Architecture
 
